@@ -1,0 +1,6 @@
+{
+  "name": "Flow Maze — Minimal Puzzle",
+  "description": "A relaxing, minimalist maze puzzle game with a warm ivory and dark brown aesthetic, fluid path-tracing animations, 200+ procedural levels, daily challenges, and ambient Web Audio soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
