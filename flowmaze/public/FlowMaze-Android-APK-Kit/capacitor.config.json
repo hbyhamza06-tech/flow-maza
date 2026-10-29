@@ -1,0 +1,12 @@
+{
+  "appId": "com.flowmaze.minimal",
+  "appName": "Flow Maze",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "backgroundColor": "#F8F3E9",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": true
+  }
+}

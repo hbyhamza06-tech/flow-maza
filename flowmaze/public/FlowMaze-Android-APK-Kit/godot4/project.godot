@@ -1,0 +1,17 @@
+; Engine configuration file.
+config_version=5
+
+[application]
+config/name="Flow Maze — Minimal Puzzle"
+run/main_scene="res://flow_maze.tscn"
+config/features=PackedStringArray("4.3", "Mobile")
+
+[display]
+window/size/viewport_width=1080
+window/size/viewport_height=1920
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+window/handheld/orientation=1
+
+[rendering]
+environment/defaults/default_clear_color=Color(0.9725, 0.9529, 0.9137, 1)
